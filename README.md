@@ -1,5 +1,7 @@
 # Chest-Disease-Classification-from-Chest-CT-Scan-Image
 
+- [Data Link](https://drive.google.com/file/d/1Q4SkDQICp-bvda_JSPf3-Sf2PhGuVD4A/view?usp=drive_link)
+
 ## Workflows
 
 1. Update config.yaml
@@ -42,3 +44,4 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+
